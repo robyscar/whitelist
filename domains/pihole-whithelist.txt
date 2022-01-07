@@ -1,0 +1,22 @@
+pihole -w clients4.google.com
+pihole -w clients2.google.com
+pihole -w s.youtube.com
+pihole -w video-stats.l.google.com
+pihole -w android.clients.google.com
+pihole -w www.msftncsi.com
+pihole -w outlook.office365.com
+pihole -w products.office.com
+pihole -w c.s-microsoft.com
+pihole -w i.s-microsoft.com
+pihole -w login.live.com
+pihole -w g.live.com
+pihole -w dl.delivery.mp.microsoft.com
+pihole -w geo-prod.do.dsp.mp.microsoft.com
+pihole -w displaycatalog.mp.microsoft.com
+pihole -w s.gateway.messenger.live.com
+pihole -w ui.skype.com
+pihole -w pricelist.skype.com
+pihole -w apps.skype.com
+pihole -w m.hotmail.com
+pihole -w s.gateway.messenger.live.com
+pihole -w sa.symcb.com s{1..5}.symcb.com
